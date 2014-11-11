@@ -1,9 +1,9 @@
 ﻿=== MobiDevices Translate URL ===
-Contributors: MobiDevices
+Contributors: MobiDevices Soft
 Donate link: http://mobidevices.ru
 Tags: Title, URL, SEO, Translation, English, Language, Google, MD, MobiDevices
 Requires at least: 3.3
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 3.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -64,3 +64,6 @@ SEO-плагин для автоматического перевода ярлы
 
 = 3.1.1 =
 Общее улучшение производительности
+
+= 3.1.3 =
+Исправлены мелкие недочеты

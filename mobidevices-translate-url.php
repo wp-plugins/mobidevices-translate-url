@@ -3,8 +3,8 @@
 Plugin Name: MobiDevices Translate URL
 Plugin URI: http://mobidevices.ru
 Description: Плагин для автоматического перевода русских ярлыков (URL) на английский язык, разработанный порталом <a href="http://mobidevices.ru">MobiDevices</a>.
-Version: 1.0
-Author: MobiDevices
+Version: 3.1.3
+Author: MobiDevices Soft
 Author URI: http://mobidevices.ru
 Author Email: md@mobidevices.ru
 */

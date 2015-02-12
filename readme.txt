@@ -1,7 +1,7 @@
 ﻿=== MobiDevices Translate URL ===
 Contributors: MobiDevices Soft
 Donate link: http://mobidevices.ru
-Tags: Title, URL, SEO, Translation, English, Language, Google, MD, MobiDevices
+Tags: Title, URL, SEO, Translation, English, Language, Google, MobiDevices
 Requires at least: 3.3
 Tested up to: 4.1
 Stable tag: 3.2.5
@@ -22,7 +22,7 @@ SEO-плагин для автоматического перевода ярлы
 
 == Installation ==
 
-1. Установить плагин MD Translate URL
+1. Установить плагин MobiDevices Translate URL
 2. Активировать плагин
 3. Наслаждаться автоматическим переводом URL и названий медиафайлов
 

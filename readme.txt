@@ -4,7 +4,7 @@ Donate link: http://mobidevices.ru
 Tags: Title, URL, SEO, Translation, English, Language, Google, MobiDevices
 Requires at least: 3.3
 Tested up to: 4.1
-Stable tag: 3.2.5
+Stable tag: 3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,3 +73,6 @@ SEO-плагин для автоматического перевода ярлы
 
 = 3.2.5 =
 Улучшена производительность
+
+= 3.5 =
+Изменение алгоритма
